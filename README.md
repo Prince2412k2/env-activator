@@ -1,6 +1,8 @@
 # Activator
 
-its a pain to write source ./env(venv)/bin/activate everytime i open a project
+its a pain to write source `./env(venv)/bin/activate` everytime i open a project
+now i just do `~ act`
+
 
 > at ~/.local/scripts/act
 
